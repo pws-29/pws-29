@@ -6,7 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="27" align="center" height="27"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js-logo" width="27" align="center" height="27"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git-logo" width="27" align="center" height="27"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github-logo" width="27" align="center" height="27/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github-logo" width="27" align="center" height="27"/>  
 </span>
 
 - 📫  How to reach me: pietrows29@gmail.com

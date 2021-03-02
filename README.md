@@ -1,6 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pietro Weg</h1>
 <h3 align="center">A Web Developer student, focused on JavaScript</h3>
 
+<p>
 - I’m currently learning <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="27" align="center" height="27"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="27" align="center" height="27"/>
@@ -14,3 +15,4 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="50" align="center" height="50"/>:
    https://www.linkedin.com/in/pietro-weg-sera-297359157/
   </span>
+  </p>

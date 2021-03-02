@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- I’m currently learning <span>
+- I’m currently learning: <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="32" align="center" height="32"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="32" align="center" height="32"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js-logo" width="30" align="center" height="30"/>

@@ -11,6 +11,6 @@
 
 - 📫  How to reach me: **pietrows29@gmail.com**
 - <span>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="30" align="center" height="30"/>:
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="50" align="center" height="350"/>:
    https://www.linkedin.com/in/pietro-weg-sera-297359157/
   </span>

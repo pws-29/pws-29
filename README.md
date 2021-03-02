@@ -1,5 +1,7 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pietro Weg</h1>
-<p><h3 align="center">A Web Developer student, focused on JavaScript</h3></p>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pietro Weg</h1>
+<h3 align="left">A Web Developer student, focused on JavaScript</h3>
+<br>
+<br>
 
 - I’m currently learning <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="27" align="center" height="27"/>

@@ -13,11 +13,11 @@
 
 - My next steps:<span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-log" width="30" height="30" align="center"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="47" height="47" align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="55" height="55" align="center"/>
 
 - How to reach me: pietrows29@gmail.com
 - <span>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="45" align="center" height="45"/>:
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="30" align="center" height="30"/>:
   <sub>https://www.linkedin.com/in/pietro-weg-sera-297359157/</sub>
   </span>
   

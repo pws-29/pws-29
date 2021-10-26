@@ -14,16 +14,17 @@
 
   &#8594; Atualmente dedicado à <strong>ReactJs</strong>, e <strong>CSS</strong> (SASS, Styled-Components);
   <br>
+  <br>
   &#8594; Sobre o futuro? <strong>React Native</strong>, <strong>NodeJs</strong> e <strong>Ruby on Rails</strong>;
+  <br>
   <br>
   &#8594; Participando do <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (ótimo curso, fica a dica 😎);
   <br>
+  <br>
   &#8594; Formado em Administração de Empresas 📓;
   <br>
-  &#8594; Gosto do que faço, gosto do que estudo, e isso deixa tudo mais fácil 😊.
-
-  
   <br>
+  &#8594; Gosto do que faço, gosto do que estudo, e isso deixa tudo mais fácil 😊.
  
   
 

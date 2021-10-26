@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou o Pietro!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> sou o Pietro!</h1>
 <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwsera&layout=compact&langs_count=7&theme=radical"/>
 <h4 align="left">Desenvolvedor Web Front-end. No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.</h4>
 

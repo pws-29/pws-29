@@ -3,13 +3,12 @@
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwsera&layout=compact&langs_count=7&theme=radical"/>
 <h4 align="left">Desenvolvedor Web Front-end. No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.</h4>
 
-<br>
 
   &#8594; Atualmente dedicado à <strong>ReactJs</strong>, e <strong>CSS</strong> (SASS, Styled-Components);
   <br>
-  &#8594; Sobre o futuro? <strong>React Native</strong>, <strong>NodeJs</strong> e <strong>Ruby on Rails</strong>;
-  <br>
   &#8594; Participando do <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (ótimo curso, fica a dica 😎);
+  <br>
+  &#8594; Sobre o futuro? <strong>React Native</strong>, <strong>NodeJs</strong> e <strong>Ruby on Rails</strong>;
   <br>
   &#8594; Formado em Administração de Empresas 📓;
   <br>

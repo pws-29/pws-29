@@ -1,23 +1,31 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pietro Weg</h1>
-<h3 align="center">A Web Developer student, focused on ReactJs</h3>
-<br>
-<br>
 
-- I’m currently learning: <span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="32" align="center" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="32" align="center" height="32"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js-logo" width="30" align="center" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-log" width="30" height="30" align="center"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git-logo" width="35" align="center" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github-logo" width="35" align="center" height="35"/>
-</span>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pietro Weg</h1>
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwsera&layout=compact&langs_count=7&theme=radical"/>
+<div  align="left">
+  <a href= "mailto:weg.pietro@gmail.com" title="weg.pietro@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/pwsera/" target="_blank" title="pwsera">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+<h4 align="left">Desenvolvedor Web Front-end. No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.</h4>
 
-- My next steps:<span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="55" height="55" align="center"/>
 
-- How to reach me: pietrows29@gmail.com
-- <span>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="22" align="center" height="22"/><span text-align="center"> :</span>
-  <sub>https://www.linkedin.com/in/pietro-weg-sera-297359157/</sub>
-  </span>
+  &#8594; Atualmente dedicado à <strong>ReactJs</strong>, e <strong>CSS</strong> (SASS, Styled-Components);
+  <br>
+  &#8594; Sobre o futuro? <strong>React Native</strong>, <strong>NodeJs</strong> e <strong>Ruby on Rails</strong>;
+  <br>
+  &#8594; Participando do <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (ótimo curso, fica a dica 😎);
+  <br>
+  &#8594; Formado em Administração de Empresas 📓;
+  <br>
+  &#8594; Gosto do que faço, gosto do que estudo, e isso deixa tudo mais fácil 😊.
+
   
+  <br>
+ 
+  
+
+
+

@@ -1,12 +1,12 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> sou o Pietro!</h1>
 <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwsera&layout=compact&langs_count=7&theme=radical"/>
-<h4 align="left">Desenvolvedor Web Front-end. No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.</h4>
+<h4 align="left">Desenvolvedor Web Front-end participando do <a href="https://www.gama.academy/gama-experience/desenvolvimento-full-stack"> Gama Experience Full-Stack</a> . No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.</h4>
 
 
   &#8594; Atualmente dedicado à <strong>ReactJs</strong>, e <strong>CSS</strong> (SASS, Styled-Components);
   <br>
-  &#8594; Participando do <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (fica a dica 😎);
+  &#8594; Meu último curso: <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (fica a dica 😎);
   <br>
   &#8594; Sobre o futuro? <strong>React Native</strong>, <strong>NodeJs</strong> e <strong>Ruby on Rails</strong>;
   <br>

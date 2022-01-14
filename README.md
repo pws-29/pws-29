@@ -5,7 +5,7 @@
 Desenvolvedor Front-end (React), participando do Gama XP #40 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack). No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.
 
 
-  &#8594; Atualmente dedicado à <strong>ReactJs</strong>, e <strong>CSS</strong> (SASS, Styled-Components);
+  &#8594; Atualmente dedicado à <strong>ReactJs</strong>, <strong>CSS</strong> (SASS, Styled-Components) e <strong>NodeJs</strong> ;
   <br>
   &#8594; Meu último curso: <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (fica a dica 😎);
   <br>

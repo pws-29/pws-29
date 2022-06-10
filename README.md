@@ -1,6 +1,6 @@
 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, sou o Pietro!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> Olá, sou o Pietro!
 
 Desenvolvedor Front-end (React), participando do Gama XP #40 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack). No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.
 

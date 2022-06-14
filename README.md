@@ -2,12 +2,14 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> Olá, sou o Pietro!
 
-Desenvolvedor Front-end (React), participando do Gama XP #40 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack). No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.
+Desenvolvedor Front-end (React + AEM), atuando no innovation Studio de Adobe Digital Experiences na CompassUol. No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.
 
 
-  &#8594; Atualmente dedicado à <strong>ReactJs</strong>, <strong>CSS</strong> (SASS, Styled-Components) e <strong>NodeJs</strong> ;
+  &#8594; Atualmente dedicado à <strong>ReactJs</strong>, <strong>CSS</strong> (SASS, Styled-Components) e <strong>Adobe Experience Manager</strong>;
   <br>
-  &#8594; Meu último curso: <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (fica a dica 😎);
+  &#8594; Cursando: <a href="https://efficient-sloth-d85.notion.site/Trilha-ReactJS-91f1cc0daab04177b425c9386f1c07da">Ignite (React.Js) - Rocketseat</a>;
+  <br>
+  &#8594; Para quem curte: <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (fica a dica 😎);
   <br>
   &#8594; Formado em Administração de Empresas 📓;
   <br>

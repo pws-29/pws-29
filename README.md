@@ -42,4 +42,4 @@ Desenvolvedor Front-end (React + AEM), atuando no innovation Studio de Adobe Dig
 
 
 ## :bar_chart: Estatisticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wspietro&hide=TeX&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pws-29&hide=TeX&layout=compact&theme=dracula)

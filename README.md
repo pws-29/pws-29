@@ -7,7 +7,7 @@ Desenvolvedor Front-end (React + AEM), atuando no innovation Studio de Adobe Dig
 
   &#8594; Atualmente dedicado à <strong>ReactJs</strong>, <strong>CSS</strong> (SASS, Styled-Components) e <strong>Adobe Experience Manager</strong>;
   <br>
-  &#8594; Cursando: <a href="https://efficient-sloth-d85.notion.site/Trilha-ReactJS-91f1cc0daab04177b425c9386f1c07da">Ignite (React.Js) - Rocketseat</a>;
+  &#8594; Estudando: <a href="https://www.rocketseat.com.br/ignite">Ignite</a> ReactTs e NodeJs -Rocketseat;
   <br>
   &#8594; Para quem curte: <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (fica a dica 😎);
   <br>
@@ -25,20 +25,22 @@ Desenvolvedor Front-end (React + AEM), atuando no innovation Studio de Adobe Dig
 </div>
 
 
-## :rocket: Habilidades
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
-![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-## :books: Em andamento
-![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+## ➡️: Front-end
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+
+## ➡️: Back-end
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ## :bar_chart: Estatisticas do GitHub

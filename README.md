@@ -1,19 +1,5 @@
 
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> Olá, sou o Pietro!
-
-Desenvolvedor Front-end (React + AEM), atuando no innovation Studio de Adobe Digital Experiences na CompassUol. No offline assisto a bons filmes, me arrisco com fotos analógicas e desço ladeiras no skate.
-
-
-  &#8594; Atualmente dedicado à <strong>ReactJs</strong>, <strong>CSS</strong> (SASS, Styled-Components) e <strong>Adobe Experience Manager</strong>;
-  <br>
-  &#8594; Estudando: <a href="https://www.rocketseat.com.br/ignite">Ignite</a> ReactTs e NodeJs -Rocketseat;
-  <br>
-  &#8594; Para quem curte: <a href="https://courses.joshwcomeau.com/css-for-js">CSS for JavaScript Developers</a> (fica a dica 😎);
-  <br>
-  &#8594; Formado em Administração de Empresas 📓;
-  <br>
-  &#8594; Gosto do que faço, gosto do que estudo. Isso deixa tudo mais fácil 😊.
+Desenvolvedor Fullstack com ênfase em Front-end, atuando principalmente com ReactJs, NextJs, TypeScript e NodeJs. 
 
   <div  align="left">
   <a href= "mailto:weg.pietro@gmail.com" title="weg.pietro@gmail.com">

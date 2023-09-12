@@ -1,5 +1,5 @@
 
-Desenvolvedor Fullstack com ênfase em Front-end, atuando principalmente com ReactJs, NextJs, TypeScript e NodeJs. 
+### Desenvolvedor Fullstack com ênfase em Front-end, atuando principalmente com ReactJs, NextJs, TypeScript e NodeJs. 
 
   <div  align="left">
   <a href= "mailto:weg.pietro@gmail.com" title="weg.pietro@gmail.com">
